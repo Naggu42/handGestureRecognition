@@ -1,5 +1,5 @@
-## handGestureRecognition
-#a simple CNN to detect five different hand gestures.
+## Hand Gesture Recognition Project
+# A simple CNN to detect five different hand gestures.
 
 This project consists of a simple convolution neural network using Keras API.
 
